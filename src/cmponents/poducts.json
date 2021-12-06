@@ -1,0 +1,33 @@
+[
+    {
+        "nombre":"Nutrioli",
+        "precio":34,
+        "desc":"Aceite de cocina, más mejor que los que son piores que el, pero menos meor que los que son piores que el",
+        "img":"./nutrioli.jpg"
+    },
+    {
+        "nombre":"Huevo",
+        "precio":12,
+        "desc":"Huevo de gallina, traidos desde la granja El basado",
+        "img":"./huevos.jpg"
+    },
+    {
+        "nombre":"Amogus",
+        "precio":666,
+        "desc":"Disco original del éxito mundial S.U.S, lanueva banda musical basada en el videojuego amog OS, ",
+        "img":"./amogus.jpg"
+    },
+    {
+        "nombre":"Uwuntu",
+        "precio":30,
+        "desc":"Licencia del sistema operativo Uwuntu, una distribucion de linux",
+        "img":"./uwuntu.png"
+    },
+    {
+        "nombre":"Basado",
+        "precio":69,
+        "desc":"Perfume con feromonas, para atraer al sexo opuesto",
+        "img":"./basado.jpg"
+    }
+    
+]

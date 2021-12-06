@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@600&family=Lobster&display=swap');
+.navbar-groc{
+    background-color: #f1d685!important;
+}
+.nav-link-gr{
+    color: #b88b0d !important;
+    }
+
+.logo{
+    font-size: 2rem!important;
+    display: flex;
+    align-items:center ;
+}
+
+
+.logo-first{
+    margin-left:0.5rem ;
+    color: white;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+.logo-sec{
+    color: #ff9900;
+    font-family: 'Lobster', cursive;
+}

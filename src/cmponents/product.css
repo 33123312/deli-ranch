@@ -1,0 +1,33 @@
+.product-info-cont{
+    display: flex;
+    width: 50%;
+    margin-top:1rem;
+    padding: 0.5rem;
+    background-color: #eee8d5;
+    justify-content: space-around;
+}
+
+.product-info-cont img{
+    width: 30%;
+    margin-right:0.5rem;
+}
+
+.desc-cont >div{
+    display: flex;
+}
+
+.desc-cont >div >div{
+    display: flex;
+}
+
+.desc-cont >div >div{
+    display: flex;
+    margin-right: 1rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+
+}
+
+.desc-cont > h1{
+   text-align: left;
+}

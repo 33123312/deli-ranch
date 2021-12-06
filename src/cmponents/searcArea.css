@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@600&display=swap');
+.search-cont{
+    background: rgb(220, 236, 206);
+    height: 14rem;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.searchBar-area{
+    width: 50%;
+
+}
+
+.searchBar-area h1{
+    text-align: center;
+    margin-bottom: 2rem;
+    font-size:4rem;
+    font-family: 'Heebo', sans-serif;
+    color: #4e4605;
+}
+
+.search-bar{
+    display: flex;
+}
